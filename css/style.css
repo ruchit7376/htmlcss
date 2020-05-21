@@ -106,15 +106,15 @@ p{
 @media (max-width: 767px){
 
 	 .col-sl-1 {
-    width: 100% !important;
+    width: 100%;
     padding: 10px 50px;
   }
   .col-sl-2 {
-    width: 100% !important;
+    width: 100%;
     padding: 10px 50px;
   }
   .col-sl-3 {
-    width:100% !important;
+    width:100% ;
     padding: 10px 50px;
   }
 }
