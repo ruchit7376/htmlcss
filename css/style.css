@@ -75,7 +75,7 @@ p{
     position: relative;
     border: 1px solid black;
     background-color: #F2F2F2;
-    height: 250px;
+    height: max-content;
 }
 
 @media (min-width: 992px){
